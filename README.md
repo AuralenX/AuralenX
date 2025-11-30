@@ -123,9 +123,10 @@ A safety device for the visually impaired featuring:
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuralenX&theme=tokyonight&hide_border=true" height="180"/>
