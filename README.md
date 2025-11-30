@@ -1,118 +1,148 @@
-<!-- AuralenX∞ — Innovate Beyond Limits -->
+<!-- Banner / Logo -->
+<p align="center">
+  <img src="logo.jpg" alt="AuralenX Logo" width="200" />
+</p>
 
-<h1 align="center">✨ AuralenX∞ — Innovate Beyond Limits ✨</h1>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AuralenX/AuralenX/main/logo.jpg" width="200" alt="AuralenX∞ Logo"/>
-</div>
-
----
-
-## 👋 Welcome to AuralenX∞
-I build intelligent digital systems that merge **Software**, **IoT**, and **AI** into meaningful, futuristic experiences.
-
-AuralenX∞ is a brand focused on **innovation without limits**, developing high-end solutions across:
-
-- ⚡ Full-Stack Software Development  
-- 🌐 React Web Applications  
-- 📡 IoT & Embedded Systems  
-- 🔐 Secure System Architectures  
-- 🤖 AI-enhanced digital experiences  
-- ☁ Cloud & Realtime Apps  
-
----
-
-## 🧬 **About Me**
-**Name:** Asiedu Minta Kwaku  
-**Alias:** Newron Jnr.  
-**Brand:** AuralenX∞  
-**Email:** auralenx.team@gmail.com  
-**Role:** Full-Stack Developer • Embedded Systems Engineer • IoT Innovator  
-
-I blend deep engineering knowledge with software expertise to create systems that are not just functional — but **smart, scalable, and future-driven**.
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 **1. Vital Go — Telemedicine Platform**
-Secure video consultation app for medical centers  
-**Tech:** React, Node.js, WebRTC, Firebase  
-
-### 🛒 **2. KofKaN Store — Full eCommerce System**
-Admin dashboard, Paystack integration, MongoDB backend  
-**Tech:** Node.js, Express, MongoDB, JWT  
-
-### 🦯 **3. SmartStick 1.8 — Smart Stick for the Blind**
-IoT stick with ultrasonic sensors, GPS, GSM alerts  
-**Tech:** ESP32, SIM800L, NEO-6M, Firebase  
-
-### 🌱 **4. Biomass Monitoring Dashboard**
-Realtime irrigation + soil moisture/temperature analytics  
-**Tech:** ESP32, Firebase Realtime DB, Web Dashboard  
-
----
-
-## 📦 Tech Stack & Tools
-
-**Frontend:**  
-`React` · `HTML5` · `CSS3` · `JavaScript` · `TailwindCSS`
-
-**Backend:**  
-`Node.js` · `Express` · `Flask`
-
-**Databases:**  
-`Firebase` · `Firestore` · `MongoDB` · `MariaDB`, , `MYSQL`
-
-**IoT & Hardware:**  
-`ESP32` · `Arduino` · `SIM800L` · `NEO-6M GPS`
-
-**Cloud & DevOps:**  
-`Firebase Hosting` · `Netlify` · `Render` · `Cloudflare Workers`
-
-**Other:**  
-`Paystack` · `REST API` · `WebRTC` · `Deep Seek API`
-
----
-
-## 🎨 Brand Palette — AuralenX∞  
-(Used across websites + visuals)
-
-| Color | Hex |
-|-------|------|
-| Deep Blue | `#1A237E` |
-| Electric Cyan | `#00E5FF` |
-| Gradient Purple | `#7C4DFF` |
-| Silver Mist | `#ECEFF1` |
-| Pure White | `#FFFFFF` |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![AuralenX GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:auralenx.team@gmail.com"><img src="https://img.shields.io/badge/Email-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Welcome+to+AuralenX%E2%88%9E;Innovating+Software%2C+IoT%2C+Cloud+%26+Automation;Engineering+the+Future+with+Precision" />
 </p>
 
 ---
 
-## 🔥 Vision
-AuralenX∞ represents a future where **technology is limitless, humans are empowered, and the digital world becomes intelligent, adaptive, and connected.**
+# 🌐 **AuralenX∞**
+### *Engineering the future through intelligent systems, automation and software innovation.*
 
-> _“Innovation is infinite — and so are the possibilities.”_
+AuralenX∞ is a modern engineering and technology brand dedicated to building  
+powerful, scalable, and intelligent solutions across:
+
+- IoT & Embedded Systems  
+- Full-Stack Web Development  
+- Mobile Application Development  
+- Cloud & Automation Platforms  
+- Smart Device Monitoring Systems  
+
+We merge **hardware + software** into seamless real-world products.
 
 ---
 
-🌟 **Thanks for visiting. Let’s build the future — infinitely.**  
+## 🚀 **Quick Access**
+- 🌍 **Website:** https://auralenx.com  
+- 📦 **GitHub Projects:** https://github.com/AuralenX?tab=repositories  
+- 📧 **Email:** auralenx.team@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/company/auralenx  
+
+---
+
+## 🧭 **About AuralenX∞**
+AuralenX∞ is founded by **Asiedu Kwaku Mintah**, an innovative engineer specializing in IoT, electronics, and software architecture.
+
+We design and develop solutions that connect:
+
+- Intelligent sensors  
+- Embedded microcontrollers  
+- Secure cloud databases  
+- Real-time dashboards  
+- Mobile & web interfaces  
+
+🌀 *“Precision, intelligence, and creativity — this is how we build the future.”*
+
+---
+
+## 🎯 **Mission**
+To create world-class technology that blends electronics, automation, cloud systems,  
+and intelligent design to improve businesses, communities, and daily life.
+
+---
+
+## ⚡ **What We Build**
+### 🟦 **IoT & Embedded Systems**
+- ESP32/Arduino solutions  
+- Sensor networks  
+- Smart automation  
+- Real-time monitoring devices  
+
+### 🟩 **Software Development**
+- Full-stack applications  
+- Scalable API architecture  
+- Mobile apps (Android/iOS)  
+- Cloud solutions (Firebase, Node.js)  
+
+### 🟪 **Automation & Engineering**
+- Smart control dashboards  
+- Cloud integration  
+- Security systems  
+- Data visualization tools  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 💻 **Languages**
+`JavaScript` • `HTML` • `CSS` • `C++` • `SQL` • `Python`
+
+### ⚙️ **Frameworks & Tools**
+`Node.js` • `Express` • `Firebase` • `Arduino` • `ESP32` • `Git` • `React`
+
+### 🌩️ **Domains**
+- IoT Systems  
+- Cloud Architecture  
+- Embedded Engineering  
+- Real-Time Data Sync  
+- Security & Authentication  
+- Automation & Control Systems  
+
+---
+
+## 🚀 **Flagship Projects**
+
+### 📡 **Smart IoT Control Hub**
+A cloud-connected system for real-time device monitoring and automation.  
+Built with **ESP32 + Firebase + Node.js + Web Dashboard**.
+
+**Core Features**
+- 🔌 Real-time device sync  
+- 🔒 Secure authentication  
+- ☁️ Cloud storage  
+- 📊 Dashboard UI  
+
+---
+
+### 🦯 **SmartState 1.8 — Assistive Smart Stick**
+A safety device for the visually impaired featuring:
+
+- Ultrasonic obstacle detection  
+- Depth measurement  
+- GPS module (NEO-6M)  
+- SIM800L SMS alert system  
+- Vibration + buzzer feedback  
+- Emergency button with live location  
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuralenX&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 **Connect With Us**
+- 🌍 Website: **https://auralenx.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/company/auralenx**  
+- 📧 Email: **auralenx.team@gmail.com**  
+- 🐙 GitHub: **https://github.com/AuralenX**  
+
+---
+
+## ✨ **AuralenX∞ Signature**
+> “Technology is the bridge between imagination and reality.  
+> At AuralenX∞, we build that bridge with intelligence.”
+
+---
