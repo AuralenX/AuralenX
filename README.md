@@ -3,7 +3,7 @@
 <h1 align="center">✨ AuralenX∞ — Innovate Beyond Limits ✨</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AuralenX/AuralenX/main/logo.png" width="200" alt="AuralenX∞ Logo"/>
+  <img src="https://raw.githubusercontent.com/AuralenX/AuralenX/main/logo.jpg" width="200" alt="AuralenX∞ Logo"/>
 </div>
 
 ---
