@@ -27,15 +27,15 @@ We merge **hardware + software** into seamless real-world products.
 ---
 
 ## 🚀 **Quick Access**
-- 🌍 **Website:** https://auralenx.com  
-- 📦 **GitHub Projects:** https://github.com/AuralenX?tab=repositories  
-- 📧 **Email:** auralenx.team@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/company/auralenx  
+- 🌍 **Website:** [auralenx.com](https://auralenx.com)  
+- 📦 **GitHub Projects:** [GitHub](https://github.com/AuralenX?tab=repositories)  
+- 📧 **Email:** [auralenx.team@gmail.com](mailto:auralenx.team@gmail.com)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/company/auralenx)  
 
 ---
 
 ## 🧭 **About AuralenX∞**
-AuralenX∞ is founded by **Asiedu Kwaku Mintah**, an innovative engineer specializing in IoT, electronics, and software architecture.
+Founded by **Asiedu Kwaku Mintah**, an innovative engineer specializing in IoT, electronics, and software architecture.  
 
 We design and develop solutions that connect:
 
@@ -108,13 +108,13 @@ Built with **ESP32 + Firebase + Node.js + Web Dashboard**.
 
 ---
 
-### 🦯 **SmartState 1.8 — Assistive Smart Stick**
+### 🦯 **SmartStick 1.8 — Assistive Smart Stick**
 A safety device for the visually impaired featuring:
 
 - Ultrasonic obstacle detection  
 - Depth measurement  
 - GPS module (NEO-6M)  
-- SIM800L SMS alert system  
+- SIM800L Call and SMS alert system  
 - Vibration + buzzer feedback  
 - Emergency button with live location  
 
@@ -123,28 +123,29 @@ A safety device for the visually impaired featuring:
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuralenX&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuralenX&theme=react-dark&hide_border=true" alt="Commit Activity Graph" />
+</p>
+
 ---
 
-## 🌐 Connect With Us
+## 🌐 **Connect With Us**
 
 [![Website](https://img.shields.io/badge/Website-auralenx.com-blue?style=for-the-badge&logo=google-chrome)](https://auralenx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AuralenX-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/auralenx)
 [![Email](https://img.shields.io/badge/Email-auralenx.team@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:auralenx.team@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AuralenX-black?style=for-the-badge&logo=github)](https://github.com/AuralenX)
 
-
 ---
 
 ## ✨ **AuralenX∞ Signature**
 > “Technology is the bridge between imagination and reality.  
 > At AuralenX∞, we build that bridge with intelligence.”
-
----
