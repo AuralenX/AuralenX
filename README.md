@@ -92,9 +92,9 @@ Realtime irrigation + soil moisture/temperature analytics
 
 <div align="center">
 
-![AuralenX GitHub Stats](https://github-readme-stats.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true)
+![AuralenX GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
