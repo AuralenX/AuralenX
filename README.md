@@ -133,11 +133,13 @@ A safety device for the visually impaired featuring:
 
 ---
 
-## 🌐 **Connect With Us**
-- 🌍 Website: **https://auralenx.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/company/auralenx**  
-- 📧 Email: **auralenx.team@gmail.com**  
-- 🐙 GitHub: **https://github.com/AuralenX**  
+## 🌐 Connect With Us
+
+[![Website](https://img.shields.io/badge/Website-auralenx.com-blue?style=for-the-badge&logo=google-chrome)](https://auralenx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AuralenX-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/auralenx)
+[![Email](https://img.shields.io/badge/Email-auralenx.team@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:auralenx.team@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AuralenX-black?style=for-the-badge&logo=github)](https://github.com/AuralenX)
+
 
 ---
 
