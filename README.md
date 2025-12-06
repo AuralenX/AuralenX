@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="logo.jpg" alt="AuralenX Logo" width="200" />
+  <img src="logo.jpg" alt="AuralenX Logo" width="200" style="border-radius: 10px"/>
 </p>
 
 <!-- Typing SVG -->
