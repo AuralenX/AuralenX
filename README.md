@@ -132,9 +132,10 @@ A safety device for the visually impaired featuring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuralenX&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuralenX&theme=react-dark&hide_border=true" alt="Commit Activity Graph" />
-</p>
+div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AuralenX&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
+</div>
 
 ---
 
