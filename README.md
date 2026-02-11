@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Welcome+to+AuralenX%E2%88%9E;Innovating+Software%2C+IoT%2C+Cloud+%26+Automation;Engineering+the+Future+with+Precision" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Welcome+to+AuralenX%E2%88%9E;IInnovating+Software%2C+IoT%2C+Cloud+%26+Automation;Engineering+the+Future+with+Precision" />
 </p>
 
 ---
@@ -123,10 +123,9 @@ A safety device for the visually impaired featuring:
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AuralenX&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/AuralenX)
 
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AuralenX&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/AuralenX)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuralenX&theme=tokyonight&hide_border=true" height="180"/>
